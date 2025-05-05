@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+soundfile
+sentencepiece
+huggingface_hub
